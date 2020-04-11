@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringDemoProjectTestApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Virendra Gupta");
 		SpringApplication.run(SpringDemoProjectTestApplication.class, args);
 	}
 
